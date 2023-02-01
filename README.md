@@ -20,5 +20,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+*AQUI CON MI PRIMERA APP WEB DE RUBY :D
 
 * ...
